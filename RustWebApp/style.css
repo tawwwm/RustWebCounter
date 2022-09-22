@@ -13,11 +13,17 @@ p{
 }
 
 button{
-	width: 50%;
+	width: 35%;
 	height: 500px;
 	font-size: 15em;
 	color: white;
 	text-align: center;
-	background-color: grey;
 	border-width: 8px;
+}
+
+#addBtn{
+	background-color: green;
+}
+#minusBtn{
+	background-color: red;
 }
