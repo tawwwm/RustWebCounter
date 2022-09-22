@@ -1,0 +1,11 @@
+C:\Users\tom_r\Documents\GitHub\RustWebApp\RustWebApp\target\wasm32-unknown-unknown\debug\deps\gloo_file-945bf2c5a934d97c.rmeta: C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\tom_r\Documents\GitHub\RustWebApp\RustWebApp\target\wasm32-unknown-unknown\debug\deps\libgloo_file-945bf2c5a934d97c.rlib: C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\tom_r\Documents\GitHub\RustWebApp\RustWebApp\target\wasm32-unknown-unknown\debug\deps\gloo_file-945bf2c5a934d97c.d: C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs:
+C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs:
+C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs:
+C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs:
+C:\Users\tom_r\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs:
